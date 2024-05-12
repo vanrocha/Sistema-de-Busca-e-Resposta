@@ -61,6 +61,8 @@ Este projeto implementa um sistema de busca e resposta utilizando embeddings de 
 - Sumarização de texto
 - Geração de conteúdo
 
+#
+
 
 ## Contribuições:
 
